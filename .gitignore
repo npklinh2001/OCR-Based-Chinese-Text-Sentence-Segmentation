@@ -1,0 +1,8 @@
+# Ignore all TSV files
+*.tsv
+
+# Ignore all TXT files
+*.txt
+downloaded_images_bbox
+downloaded_images
+__pycache__
